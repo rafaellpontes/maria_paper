@@ -1,0 +1,21 @@
+{
+    "database": {
+        "host": "",
+        "port": "",
+        "database": "",
+        "username": "",
+        "password": ""
+    },
+    "openai_key": "",
+    "bot_name": "",
+    "bot_number": -1,
+    "gpt_model": "",
+    "temp_path": "",
+    "aws": {
+        "aws_access_key_id": "",
+        "aws_secret_access_key": "",
+        "bucket_name": ""
+    }
+
+}
+

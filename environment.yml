@@ -1,0 +1,4 @@
+name: maria
+channels:
+  - defaults
+prefix: /home/rafael/miniconda3/envs/maria
